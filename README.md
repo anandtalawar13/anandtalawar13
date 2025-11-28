@@ -120,12 +120,10 @@ I’m passionate about transforming raw data into meaningful insights and buildi
 
 ---
 
-##  Contribution Snake
-![GitHub Contribution Snake Light](https://raw.githubusercontent.com/anandtalawar13/anandtalawar13/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/anandtalawar13/anandtalawar13/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+## Contribution Snake Game
 
-
+![snake_gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-snake-dark.svg)
 
 ---
 
-###  **Thanks for visiting my profile! Feel free to explore my repositories or connect with me.**
+###  **`Thanks for visiting my profile! Feel free to explore my repositories or connect with me.`**
