@@ -121,11 +121,10 @@ I’m passionate about transforming raw data into meaningful insights and buildi
 ---
 
 ##  Contribution Snake
-
 ![GitHub Contribution Snake Light](https://raw.githubusercontent.com/anandtalawar13/anandtalawar13/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/anandtalawar13/anandtalawar13/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-![GitHub Contribution Snake GIF](https://raw.githubusercontent.com/anandtalawar13/anandtalawar13/output/github-contribution-grid-snake.gif)
+
 
 ---
 
