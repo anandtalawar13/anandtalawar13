@@ -52,32 +52,6 @@ I’m passionate about transforming raw data into meaningful insights and buildi
 
 ---
 
-## Featured Projects
-
-### Machine Learning
-* **Customer Churn Prediction** – EDA → Feature Engineering → ML → Deployment
-* **Fraud Detection System** – Imbalanced classification with advanced ML
-* **Sales Forecasting** – Time Series using FB Prophet / ARIMA
-
-### Deep Learning
-* **Image Classifier with CNNs** – Augmentation, tuning, evaluation
-* **Sentiment Analysis** – NLP using transformers
-
-### Data Analysis
-* **Exploratory Data Analysis (EDA)** on business, finance, retail datasets
-* **Power BI Dashboards** – Sales, HR, Finance performance dashboards
-* **Advanced Excel Models** – Pivot tables, Power Query, forecasting
-* **SQL Case Studies** – Joins, Window Functions, CTEs, Optimization
-* **A/B Testing & Statistical Analysis** – Hypothesis testing insights
-* **ETL Pipelines with Airflow** – Automated workflows and data cleaning
-* **Spark Processing Pipeline** – Big data transformations
-
-### End-to-End Deployments
-* ML model deployed with **FastAPI + Docker + Render**
-* Interactive analytical dashboards using **Streamlit**
-
----
-
 ## Certifications
 * Google Data Analytics
 * IBM Data Science
@@ -126,7 +100,6 @@ I’m passionate about transforming raw data into meaningful insights and buildi
 </p>
 
 📧  Email: **[anandtalawar123123@gmail.com](mailto:anandtalawar123123@gmail.com)**
-
 🔗  LinkedIn: [Anand Siddappa Talawar](https://www.linkedin.com/in/anand-talawar-83b1a9127/)
 
 ---
