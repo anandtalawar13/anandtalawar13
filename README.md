@@ -56,7 +56,7 @@ I’m passionate about transforming raw data into meaningful insights and buildi
 * Google Data Analytics
 * IBM Data Science
 * Machine Learning — Andrew Ng
-* TensorFlow Developer (optional)
+* TensorFlow Developer 
 
 ---
 
