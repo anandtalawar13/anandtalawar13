@@ -122,7 +122,7 @@ I’m passionate about transforming raw data into meaningful insights and buildi
 
 ## Contribution Snake Game
 
-![snake_gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/anandtalawar13/anandtalawar13/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
