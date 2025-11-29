@@ -63,15 +63,14 @@ I’m passionate about transforming raw data into meaningful insights and buildi
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandtalawar13&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandtalawar13&theme=react-dark" />
 </p>
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anandtalawar13&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandtalawar13&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anandtalawar13&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anandtalawar13&layout=compact&theme=radical" />
 </p>
-
-\
 
 ---
 
@@ -100,6 +99,7 @@ I’m passionate about transforming raw data into meaningful insights and buildi
 </p>
 
 📧  Email: **[anandtalawar123123@gmail.com](mailto:anandtalawar123123@gmail.com)**
+
 🔗  LinkedIn: [Anand Siddappa Talawar](https://www.linkedin.com/in/anand-talawar-83b1a9127/)
 
 ---
@@ -122,7 +122,11 @@ I’m passionate about transforming raw data into meaningful insights and buildi
 
 ## Contribution Snake Game
 
-![snake gif](https://github.com/anandtalawar13/anandtalawar13/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anandtalawar13/anandtalawar13/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anandtalawar13/anandtalawar13/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/anandtalawar13/anandtalawar13/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
