@@ -52,14 +52,6 @@ I’m passionate about transforming raw data into meaningful insights and buildi
 
 ---
 
-## Certifications
-* Google Data Analytics
-* IBM Data Science
-* Machine Learning — Andrew Ng
-* TensorFlow Developer 
-
----
-
 ## GitHub Stats
 
 <p align="center">
